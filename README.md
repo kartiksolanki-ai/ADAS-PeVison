@@ -3,7 +3,7 @@ ADAS-PeVision is an AI-powered Advanced Driver Assistance System (ADAS) designed
 
 <img src="Model.png" alt="ADAS-PeVision Demo" width="500">
 
-Features
+🚀 Features
 1. Pedestrian Detection: Uses YOLOv8 to detect pedestrians in video frames with bounding boxes.
 2. Movement Prediction: Predicts pedestrian movement directions (forward, backward, left, right) using angular difference calculations.
 3. Collision Risk Assessment: Computes angular error to estimate potential pedestrian-vehicle collision risks.
@@ -18,14 +18,14 @@ Visual Cues:
 
 <img src="classes.png" alt="ADAS-PeVision Demo" width="500">
 
-Technologies Used
+🔧 Technologies Used
 1. YOLOv8 for pedestrian detection
 2. OpenCV for image processing
 3. Python for implementation
 
 <img src="download (1).png" alt="ADAS-PeVision Demo" width="500">
 
-Future Enhancements (NextVision ADAS)
+📌 Future Enhancements (NextVision ADAS)
 1. Integration of IoT-based sensors for enhanced pedestrian tracking
 2. Improved prediction models for better accuracy
 3. Real-time alert system via mobile devices
