@@ -15,6 +15,8 @@ Visual Cues:
 3. Alert System: Triggers an alert if a pedestrian is predicted to be on a collision path with the vehicle.
 4. Accuracy Calculation: Measures prediction accuracy based on angular error between actual and predicted pedestrian positions.
 
+<img src="classes.png" alt="ADAS-PeVision Demo" width="500">
+
 Technologies Used
 1. YOLOv8 for pedestrian detection
 2. OpenCV for image processing
