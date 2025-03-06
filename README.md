@@ -30,8 +30,6 @@ Visual Cues:
 2. Improved prediction models for better accuracy
 3. Real-time alert system via mobile devices
 
-
-
 🛠 Installation & Usage
 1️⃣ Open Jupyter Lab
 Ensure you have Jupyter installed. If not, install it using:
