@@ -1,4 +1,5 @@
 ADAS-PeVision is an AI-powered Advanced Driver Assistance System (ADAS) designed to enhance pedestrian safety by predicting pedestrian movement and potential collision risks using YOLOv8. This system aims to provide real-time alerts to drivers, improving road safety and reducing accidents.
+
 <img src="Model.png" alt="ADAS-PeVision Demo" width="500">
 Features
 1. Pedestrian Detection: Uses YOLOv8 to detect pedestrians in video frames with bounding boxes.
