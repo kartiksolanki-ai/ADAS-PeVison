@@ -22,7 +22,7 @@ Technologies Used
 2. OpenCV for image processing
 3. Python for implementation
 
-<img src="download(1).png" alt="ADAS-PeVision Demo" width="500">
+<img src="download (1).png" alt="ADAS-PeVision Demo" width="500">
 
 Future Enhancements (NextVision ADAS)
 1. Integration of IoT-based sensors for enhanced pedestrian tracking
