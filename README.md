@@ -22,7 +22,7 @@ Future Enhancements (NextVision ADAS)
 1. Integration of IoT-based sensors for enhanced pedestrian tracking
 2. Improved prediction models for better accuracy
 3. Real-time alert system via mobile devices
-📷 Demo
+
 
 
 🛠 Installation & Usage
