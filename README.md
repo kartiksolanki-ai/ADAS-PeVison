@@ -26,30 +26,40 @@ Visual Cues:
 <img src="download (1).png" alt="ADAS-PeVision Demo" width="500">
 
 📌 Future Enhancements (NextVision ADAS)
+
 1. Integration of IoT-based sensors for enhanced pedestrian tracking
-2. Improved prediction models for better accuracy
-3. Real-time alert system via mobile devices
+
+3. Improved prediction models for better accuracy
+   
+5. Real-time alert system via mobile devices
 
 🛠 Installation & Usage
 
 1️⃣ Open Jupyter Lab
+
 Ensure you have Jupyter installed. If not, install it using:
 
-1. pip install jupyterlab
+-> pip install jupyterlab
 
 Then, start Jupyter Lab:
 
-2. jupyter lab
+-> jupyter lab
 
 2️⃣ Open the Notebook
-Navigate to untitled.ipynb in Jupyter Lab.
-Open the notebook to view the code and execution steps.
+
+-> Navigate to untitled.ipynb in Jupyter Lab.
+
+-> Open the notebook to view the code and execution steps.
 
 3️⃣ Install Dependencies
+
 Before running the notebook, install the required dependencies:
-pip install -r requirements.txt
+
+-> pip install -r requirements.txt
+
 If a requirements.txt file isn't available, manually install the dependencies:
-pip install pygame opencv-python ultralytics numpy
+
+-> pip install pygame opencv-python ultralytics numpy
 
 4️⃣ Run the Notebook
 Execute all cells in untitled.ipynb.
